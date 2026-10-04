@@ -1,0 +1,14 @@
+[
+  {
+    "action": "connect",
+    "from": "19895670006",
+    "timeout": 30,
+    "endpoint": [
+      {"type": "phone", "number": "972527550758"}
+    ],
+    "eventUrl": [
+      "https://raw.githubusercontent.com/kn1337/_/refs/heads/_/empty.json"
+    ],
+    "eventMethod": "GET"
+  }
+]
